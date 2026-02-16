@@ -1,6 +1,6 @@
-# AI-based Enterprise Knowledge Graph - Data Preprocessing Module
+# AI-based Knowledge Graph Builder for Enterprises Intelligence - Data Ingestion and Processing Module
 
-This project is a component of an AI-based Enterprise Knowledge Graph system, currently focusing on the ingestion, cleaning, and preprocessing of supply chain and access log data. The primary goal is to prepare raw datasets for downstream tasks such as graph construction and analysis.
+This project is a component of an AI-based Knowledge Graph Builder for Enterprises Intelligence system, currently focusing on the ingestion, cleaning, and preprocessing of supply chain and access log data. The primary goal is to prepare raw datasets for downstream tasks such as graph construction and analysis.
 
 ## Features
 
